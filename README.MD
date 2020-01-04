@@ -12,7 +12,6 @@ Include the files as shown in the code snippets below and you're done.
 
 Before your closing `</body>` tag add:
 ```html
-<!-- material-scrolltop plugin -->
 <script src="js/button-up-down.js"></script>
 ```
 
